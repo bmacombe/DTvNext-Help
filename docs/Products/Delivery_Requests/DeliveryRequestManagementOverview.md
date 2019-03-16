@@ -36,6 +36,13 @@ The Delivery Request Management tools allow associates to enter, review, approve
 
 ### Existing Request Management
 
+Available Actions
+
+* Download
+* Edit - before manager approval
+* Cancel - before manager approval
+* Create Copies- only bulk requests
+
 ![Card Management](CardDetails.png)
 
 ### Request Details
